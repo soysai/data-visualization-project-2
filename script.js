@@ -1,254 +1,265 @@
 let playlist = {
 
-"songs":[
-    {
-        "Song_name": "Matsuri",
-        "Language": "Japanese",
-        "Artist": "Fujii Kaze",
-        "Genre": "J-pop",
-        "Date_added": "Oct 16 2023",
-        "Do_I_still_listen_to_it?": "n",
-        "Playlist": "Week 1",
-        "Embed" : "https://open.spotify.com/track/7AMGgAPFczs3wJgMqu6Eqi?si=c4bcabefcf97441b"
-    },
-    {
-        "Song_name": "Music for a sushi restaurant",
-        "Language": "English",
-        "Artist": "Harry Styles",
-        "Genre": "Pop",
-        "Date_added": "Oct 16 2023",
-        "Do_I_still_listen_to_it?": "n",
-        "Playlist": "Week 1",
-        "Embed" : "https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV?si=cd93f1470fbf4836" 
-    },
-    {
-        "Song_name": "Channa Mereya",
-        "Language": "Hindi",
-        "Artist": "Pritam, Arijith singh",
-        "Genre": "Bollywood",
-        "Date_added": "Oct 16 2023",
-        "Do_I_still_listen_to_it?": "n",
-        "Playlist": "Week 1",
-        "Embed" : "https://open.spotify.com/track/0H2iJVgorRR0ZFgRqGUjUM?si=158a8075e3af49f6"
-    },
-    {
-        "Song_name": "Aa re Pritam Pyare",
-        "Language": "Hindi",
-        "Artist": "Sajid-Wajid, Mamta Sharma, Sarosh Sami ",
-        "Genre": "Bollywood",
-        "Date_added": "Oct 16 2023",
-        "Do_I_still_listen_to_it?": "n",
-        "Playlist": "Week 1", 
-        "Embed" : "https://open.spotify.com/track/3CXHPRFNic9WOsazT4huOJ?si=01f0930411394a16"
-    },
-    {
-        "Song_name": "Mann Moriya",
-        "Language": "Hindi",
-        "Artist": "The Sketches, Mai Dhai",
-        "Genre": "Bollywood",
-        "Date_added": "Oct 16 2023",
-        "Do_I_still_listen_to_it?": "n",
-        "Playlist": "Week 1", 
-        "Embed" : "https://open.spotify.com/track/0WYk20mYNyI4l7a4KlTcw3?si=33ec5fd57c634d12"
-    },
-    {
-        "Song_name": "מה חשבת",
-        "Language": "Hebrew",
-        "Artist": "Gil Bar Hadas",
-        "Genre": "Indie",
-        "Date_added": "Oct 16 2023",
-        "Do_I_still_listen_to_it?": "n",
-        "Playlist": "Week 1",
-        "Embed" : "https://open.spotify.com/track/6IVIMUcrykPBQqWVA0g7zw?si=d9a8ba77635c498f"
-    },
-    {
-        "Song_name": "Vengeance ",
-        "Language": "Korean",
-        "Artist": "BIBI",
-        "Genre": "K-pop",
-        "Date_added": "Oct 16 2023",
-        "Do_I_still_listen_to_it?": "y",
-        "Playlist": "Week 1",
-        "Embed" : "https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ?si=c35ed7ec24094bde"
-    },
-    {
-        "Song_name": "Pastel",
-        "Language": "Korean",
-        "Artist": "Wheein",
-        "Genre": "K-pop",
-        "Date_added": "Oct 16 2023",
-        "Do_I_still_listen_to_it?": "y",
-        "Playlist": "Week 1",
-        "Embed" : "https://open.spotify.com/track/2LMMPM5a6djUmhoQnjnap2?si=6ce2b3e166b64854"
-    },
-    {
-        "Song_name": "ダンス・ダンス・ダダ",
-        "Language": "Japanese",
-        "Artist": "MAISONdes, EMA, たなか",
-        "Genre": "J-pop, J-RnB",
-        "Date_added": "Oct 16 2023",
-        "Do_I_still_listen_to_it?": "n",
-        "Playlist": "Week 1",
-        "Embed" : "https://open.spotify.com/track/1mnVdQakrLTiG9hEAv5HB2?si=6525694801904846"
-    },
-    {
-        "Song_name": "RED",
-        "Language": "Japanese",
-        "Artist": "INUMOKUWANEEYO",
-        "Genre": "J-pop",
-        "Date_added": "Oct 16 2023",
-        "Do_I_still_listen_to_it?": "y",
-        "Playlist": "Week 1",
-        "Embed" : "https://open.spotify.com/track/4qFtMrmaF5q9vN9ckSJvVN?si=1c13e564e4384409"
-     },
-    {
-        "Song_name": "NIGHT DANCER",
-        "Language": "Japanese",
-        "Artist": "imase",
-        "Genre": "J-pop, J-RnB",
-        "Date_added": "Oct 16 2023",
-        "Do_I_still_listen_to_it?": "y",
-        "Playlist": "Week 1",
-        "Embed" : "https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro?si=a3dc861e7d304f25"
-    },
-    {
-        "Song_name": "Precipice life theory",
-        "Language": "Japanese",
-        "Artist": " KANKAN, yowanecity",
-        "Genre": "J-pop, J-rock",
-        "Date_added": "Oct 16 2023",
-        "Do_I_still_listen_to_it?": "y",
-        "Playlist": "Week 1",
-        "Embed" : "https://open.spotify.com/track/1FiAPXjMj68R0os6jt583k?si=61668c2b03324392"
-    },
-    {
-        "Song_name": "Koko de iki wo shite",
-        "Language": "Japanese",
-        "Artist": "eill",
-        "Genre": "J-pop",
-        "Date_added": "Oct 16 2023",
-        "Do_I_still_listen_to_it?": "y",
-        "Playlist": "Week 2", 
-        "Embed" : "https://open.spotify.com/track/7cPYSzsrl6imQkzeO1HZ9b?si=978992395d5e404b"
-    },
-    {
-        "Song_name": "Anarchy",
-        "Language": "Japanese",
-        "Artist": "OFFICIAL HIGE DANDISM",
-        "Genre": "J-rock",
-        "Date_added": "Oct 16 2023",
-        "Do_I_still_listen_to_it?": "n",
-        "Playlist": "Week 2", 
-        "Embed" : "https://open.spotify.com/track/0ZPYvSJZ1feuhUcG17PHqP?si=2d2738a031e54010"
-    },
-    {
-        "Song_name": "So Beautiful",
-        "Language": "English",
-        "Artist": "DPR IAN",
-        "Genre": "Pop, Korean rock/alt",
-        "Date_added": "Oct 16 2023",
-        "Do_I_still_listen_to_it?": "y",
-        "Playlist": "Week 2", 
-        "Embed" : "https://open.spotify.com/track/6syar8JKCt3R9ZBl11zmgI?si=26121aa736934d87"
-    },
-    {
-        "Song_name": "One Two Three Four (Get on the dance floor)",
-        "Language": "Hindi",
-        "Artist": "Vishal Dadlani, Hamsika Iyer",
-        "Genre": "Bollywood",
-        "Date_added": "Oct 16 2023",
-        "Do_I_still_listen_to_it?": "n",
-        "Playlist": "Week 2"
-    },
-    {
-        "Song_name": "Olivia",
-        "Language": "English",
-        "Artist": "One direction",
-        "Genre": "Pop",
-        "Date_added": "Oct 16 2023",
-        "Do_I_still_listen_to_it?": "n",
-        "Playlist": "Week 2"
-    },
-    {
-        "Song_name": "neverletyougo",
-        "Language": "English",
-        "Artist": "ROLE MODEL",
-        "Genre": "Pop, Alt",
-        "Date_added": "Oct 16 2023",
-        "Do_I_still_listen_to_it?": "n",
-        "Playlist": "Week 2"
-    },
-    {
-        "Song_name": "Jash-E-Bahaaraa",
-        "Language": "Hindi",
-        "Artist": "A.R Rahman, Javed Ali",
-        "Genre": "Bollywood",
-        "Date_added": "Oct 16 2023",
-        "Do_I_still_listen_to_it?": "n",
-        "Playlist": "Week 2"
-    },
-    {
-        "Song_name": "3D",
-        "Language": "English",
-        "Artist": "Jung Kook, Jack Harlow",
-        "Genre": "Pop, Kpop",
-        "Date_added": "Oct 17 2023",
-        "Do_I_still_listen_to_it?": "n",
-        "Playlist": "Week 2"
-    },
-    {
-        "Song_name": "Will Anybody Ever Love Me? ",
-        "Language": "English",
-        "Artist": "Sufjan Stevens ",
-        "Genre": "Alt/ Indie, Folk, French Indie",
-        "Date_added": "Oct 19 2023",
-        "Do_I_still_listen_to_it?": "n",
-        "Playlist": "Week 2"
-    },
-    {
-        "Song_name": "Wasuretaine",
-        "Language": "Japanese",
-        "Artist": "DURDN",
-        "Genre": "Jpop, J-rock",
-        "Date_added": "Oct 16 2023",
-        "Do_I_still_listen_to_it?": "y",
-        "Playlist": "Week 3"
-    },
-    {
-        "Song_name": "Khaabon Ke Parinday ",
-        "Language": "Hindi",
-        "Artist": "Alyssa Mendonsa, Mohit Chauhan",
-        "Genre": "Bollywood",
-        "Date_added": "Oct 16 2023",
-        "Do_I_still_listen_to_it?": "n",
-        "Playlist": "Week 3"
-    },
-    {
-        "Song_name": "Sooraj Ki Baahon Mein",
-        "Language": "Hindi",
-        "Artist": "Dominique Cerejo, Clinton Cerejo, Loy Mendonsa",
-        "Genre": "Bollywood",
-        "Date_added": "Oct 16 2023",
-        "Do_I_still_listen_to_it?": "n",
-        "Playlist": "Week 3"
-    },
-    {
-        "Song_name": "Girls like to swing",
-        "Language": "Hindi",
-        "Artist": "Sunidhi Chauhan",
-        "Genre": "Bollywood",
-        "Date_added": "Oct 16 2023",
-        "Do_I_still_listen_to_it?": "y",
-        "Playlist": "Week 3"
-    },
-    {
-        "Song_name": "Dholida ",
-        "Language": "Hindi",
-        "Artist": "Sanjay Leela Bhansali, Jahnvi Shrimankar, Shail Hada, Dipti, Pragati, Rucha, Arohi, Archana",
-        "Genre": "Bollywood",
-        "Date_added": "Oct 16 2023",
-        "Do_I_still_listen_to_it?": "y",
-        "Playlist": "Week 3"
+    "songs":[
+        {
+            "Song_name": "Matsuri",
+            "Language": "Japanese",
+            "Artist": "Fujii Kaze",
+            "Genre": "J-pop",
+            "Date_added": "Oct 16 2023",
+            "Do_I_still_listen_to_it?": "n",
+            "Playlist": "Week 1",
+            "Embed" : "https://open.spotify.com/track/7AMGgAPFczs3wJgMqu6Eqi?si=c4bcabefcf97441b"
+        },
+        {
+            "Song_name": "Music for a sushi restaurant",
+            "Language": "English",
+            "Artist": "Harry Styles",
+            "Genre": "Pop",
+            "Date_added": "Oct 16 2023",
+            "Do_I_still_listen_to_it?": "n",
+            "Playlist": "Week 1",
+            "Embed" : "https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV?si=cd93f1470fbf4836" 
+        },
+        {
+            "Song_name": "Channa Mereya",
+            "Language": "Hindi",
+            "Artist": "Pritam, Arijith singh",
+            "Genre": "Bollywood",
+            "Date_added": "Oct 16 2023",
+            "Do_I_still_listen_to_it?": "n",
+            "Playlist": "Week 1",
+            "Embed" : "https://open.spotify.com/track/0H2iJVgorRR0ZFgRqGUjUM?si=158a8075e3af49f6"
+        },
+        {
+            "Song_name": "Aa re Pritam Pyare",
+            "Language": "Hindi",
+            "Artist": "Sajid-Wajid, Mamta Sharma, Sarosh Sami ",
+            "Genre": "Bollywood",
+            "Date_added": "Oct 16 2023",
+            "Do_I_still_listen_to_it?": "n",
+            "Playlist": "Week 1", 
+            "Embed" : "https://open.spotify.com/track/3CXHPRFNic9WOsazT4huOJ?si=01f0930411394a16"
+        },
+        {
+            "Song_name": "Mann Moriya",
+            "Language": "Hindi",
+            "Artist": "The Sketches, Mai Dhai",
+            "Genre": "Bollywood",
+            "Date_added": "Oct 16 2023",
+            "Do_I_still_listen_to_it?": "n",
+            "Playlist": "Week 1", 
+            "Embed" : "https://open.spotify.com/track/0WYk20mYNyI4l7a4KlTcw3?si=33ec5fd57c634d12"
+        },
+        {
+            "Song_name": "מה חשבת",
+            "Language": "Hebrew",
+            "Artist": "Gil Bar Hadas",
+            "Genre": "Indie",
+            "Date_added": "Oct 16 2023",
+            "Do_I_still_listen_to_it?": "n",
+            "Playlist": "Week 1",
+            "Embed" : "https://open.spotify.com/track/6IVIMUcrykPBQqWVA0g7zw?si=d9a8ba77635c498f"
+        },
+        {
+            "Song_name": "Vengeance ",
+            "Language": "Korean",
+            "Artist": "BIBI",
+            "Genre": "K-pop",
+            "Date_added": "Oct 16 2023",
+            "Do_I_still_listen_to_it?": "y",
+            "Playlist": "Week 1",
+            "Embed" : "https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ?si=c35ed7ec24094bde"
+        },
+        {
+            "Song_name": "Pastel",
+            "Language": "Korean",
+            "Artist": "Wheein",
+            "Genre": "K-pop",
+            "Date_added": "Oct 16 2023",
+            "Do_I_still_listen_to_it?": "y",
+            "Playlist": "Week 1",
+            "Embed" : "https://open.spotify.com/track/2LMMPM5a6djUmhoQnjnap2?si=6ce2b3e166b64854"
+        },
+        {
+            "Song_name": "ダンス・ダンス・ダダ",
+            "Language": "Japanese",
+            "Artist": "MAISONdes, EMA, たなか",
+            "Genre": "J-pop, J-RnB",
+            "Date_added": "Oct 16 2023",
+            "Do_I_still_listen_to_it?": "n",
+            "Playlist": "Week 1",
+            "Embed" : "https://open.spotify.com/track/1mnVdQakrLTiG9hEAv5HB2?si=6525694801904846"
+        },
+        {
+            "Song_name": "RED",
+            "Language": "Japanese",
+            "Artist": "INUMOKUWANEEYO",
+            "Genre": "J-pop",
+            "Date_added": "Oct 16 2023",
+            "Do_I_still_listen_to_it?": "y",
+            "Playlist": "Week 1",
+            "Embed" : "https://open.spotify.com/track/4qFtMrmaF5q9vN9ckSJvVN?si=1c13e564e4384409"
+         },
+        {
+            "Song_name": "NIGHT DANCER",
+            "Language": "Japanese",
+            "Artist": "imase",
+            "Genre": "J-pop, J-RnB",
+            "Date_added": "Oct 16 2023",
+            "Do_I_still_listen_to_it?": "y",
+            "Playlist": "Week 1",
+            "Embed" : "https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro?si=a3dc861e7d304f25"
+        },
+        {
+            "Song_name": "Precipice life theory",
+            "Language": "Japanese",
+            "Artist": " KANKAN, yowanecity",
+            "Genre": "J-pop, J-rock",
+            "Date_added": "Oct 16 2023",
+            "Do_I_still_listen_to_it?": "y",
+            "Playlist": "Week 1",
+            "Embed" : "https://open.spotify.com/track/1FiAPXjMj68R0os6jt583k?si=61668c2b03324392"
+        },
+        {
+            "Song_name": "Koko de iki wo shite",
+            "Language": "Japanese",
+            "Artist": "eill",
+            "Genre": "J-pop",
+            "Date_added": "Oct 16 2023",
+            "Do_I_still_listen_to_it?": "y",
+            "Playlist": "Week 2", 
+            "Embed" : "https://open.spotify.com/track/7cPYSzsrl6imQkzeO1HZ9b?si=978992395d5e404b"
+        },
+        {
+            "Song_name": "Anarchy",
+            "Language": "Japanese",
+            "Artist": "OFFICIAL HIGE DANDISM",
+            "Genre": "J-rock",
+            "Date_added": "Oct 16 2023",
+            "Do_I_still_listen_to_it?": "n",
+            "Playlist": "Week 2", 
+            "Embed" : "https://open.spotify.com/track/0ZPYvSJZ1feuhUcG17PHqP?si=2d2738a031e54010"
+        },
+        {
+            "Song_name": "So Beautiful",
+            "Language": "English",
+            "Artist": "DPR IAN",
+            "Genre": "Pop, Korean rock/alt",
+            "Date_added": "Oct 16 2023",
+            "Do_I_still_listen_to_it?": "y",
+            "Playlist": "Week 2", 
+            "Embed" : "https://open.spotify.com/track/6syar8JKCt3R9ZBl11zmgI?si=26121aa736934d87"
+        },
+        {
+            "Song_name": "One Two Three Four (Get on the dance floor)",
+            "Language": "Hindi",
+            "Artist": "Vishal Dadlani, Hamsika Iyer",
+            "Genre": "Bollywood",
+            "Date_added": "Oct 16 2023",
+            "Do_I_still_listen_to_it?": "n",
+            "Playlist": "Week 2",
+            "Embed" : "https://open.spotify.com/track/3XyFQxpSlGowWpZkIn3ISA?si=ad0f9e64395b42f7"
+        },
+        {
+            "Song_name": "Olivia",
+            "Language": "English",
+            "Artist": "One direction",
+            "Genre": "Pop",
+            "Date_added": "Oct 16 2023",
+            "Do_I_still_listen_to_it?": "n",
+            "Playlist": "Week 2", 
+            "Embed" : "https://open.spotify.com/track/5dONhl6aXFuN86UBdayF6W?si=1021b44561d74ad4"
+        },
+        {
+            "Song_name": "neverletyougo",
+            "Language": "English",
+            "Artist": "ROLE MODEL",
+            "Genre": "Pop, Alt",
+            "Date_added": "Oct 16 2023",
+            "Do_I_still_listen_to_it?": "n",
+            "Playlist": "Week 2", 
+            "Embed" : "https://open.spotify.com/track/4qWQdhdHttXPKrQVqoLKMy?si=bc66c2b43ae34489"
+        },
+        {
+            "Song_name": "Jash-E-Bahaaraa",
+            "Language": "Hindi",
+            "Artist": "A.R Rahman, Javed Ali",
+            "Genre": "Bollywood",
+            "Date_added": "Oct 16 2023",
+            "Do_I_still_listen_to_it?": "n",
+            "Playlist": "Week 2", 
+            "Embed" : "https://open.spotify.com/track/1O5mTSQa0sCce9ghhDqIZl?si=47035b442f23459b"
+        },
+        {
+            "Song_name": "3D",
+            "Language": "English",
+            "Artist": "Jung Kook, Jack Harlow",
+            "Genre": "Pop, Kpop",
+            "Date_added": "Oct 17 2023",
+            "Do_I_still_listen_to_it?": "n",
+            "Playlist": "Week 2", 
+            "Embed" : "https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE?si=3ef6c483508d4dcc"
+        },
+        {
+            "Song_name": "Will Anybody Ever Love Me? ",
+            "Language": "English",
+            "Artist": "Sufjan Stevens ",
+            "Genre": "Alt/ Indie, Folk, French Indie",
+            "Date_added": "Oct 19 2023",
+            "Do_I_still_listen_to_it?": "n",
+            "Playlist": "Week 2", 
+            "Embed" : "https://open.spotify.com/track/7IAx9OvToHkT8C4ZlX9hwe?si=423d46b3f6d549f6"
+        },
+        {
+            "Song_name": "Wasuretaine",
+            "Language": "Japanese",
+            "Artist": "DURDN",
+            "Genre": "Jpop, J-rock",
+            "Date_added": "Oct 16 2023",
+            "Do_I_still_listen_to_it?": "y",
+            "Playlist": "Week 3", 
+            "Embed" : "https://open.spotify.com/track/5w4d06Q4w1l9gN2AztlELL?si=88922d956cad4a5a"
+        },
+        {
+            "Song_name": "Khaabon Ke Parinday ",
+            "Language": "Hindi",
+            "Artist": "Alyssa Mendonsa, Mohit Chauhan",
+            "Genre": "Bollywood",
+            "Date_added": "Oct 16 2023",
+            "Do_I_still_listen_to_it?": "n",
+            "Playlist": "Week 3",
+            "Embed" : "https://open.spotify.com/track/14eotumM24MhIgzidgN3Jx?si=7e2391ba4a4a4d15"
+        },
+        {
+            "Song_name": "Sooraj Ki Baahon Mein",
+            "Language": "Hindi",
+            "Artist": "Dominique Cerejo, Clinton Cerejo, Loy Mendonsa",
+            "Genre": "Bollywood",
+            "Date_added": "Oct 16 2023",
+            "Do_I_still_listen_to_it?": "n",
+            "Playlist": "Week 3", 
+            "Embed" : "https://open.spotify.com/track/723xQva0yBF7M6K3nDAG8R?si=485363d1a23f4176"
+        },
+        {
+            "Song_name": "Girls like to swing",
+            "Language": "Hindi",
+            "Artist": "Sunidhi Chauhan",
+            "Genre": "Bollywood",
+            "Date_added": "Oct 16 2023",
+            "Do_I_still_listen_to_it?": "y",
+            "Playlist": "Week 3", 
+            "Embed" : "https://open.spotify.com/track/5JlZLXvZBEFD9u8OoJq6Yh?si=b67e47d3cc3b464b"
+        },
+        {
+            "Song_name": "Dholida ",
+            "Language": "Hindi",
+            "Artist": "Sanjay Leela Bhansali, Jahnvi Shrimankar, Shail Hada, Dipti, Pragati, Rucha, Arohi, Archana",
+            "Genre": "Bollywood",
+            "Date_added": "Oct 16 2023",
+            "Do_I_still_listen_to_it?": "y",
+            "Playlist": "Week 3", 
+            "Embed" : "https://open.spotify.com/track/3e1JStKIIfidujpSzjqv3F?si=f82f9e1adbdd4eaf"
     },
     {
         "Song_name": "Kimi ni Todoke",
