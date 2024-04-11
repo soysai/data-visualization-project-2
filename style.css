@@ -1,0 +1,349 @@
+
+
+.circle {
+    width: 90px; 
+    height: 90px; 
+    border-radius: 50%;
+    display: inline-block;
+    margin: 20px;
+    animation: fade-out 3s forwards;
+    animation-iteration-count: 1;
+    animation: fade-in 3s forwards;
+    animation-iteration-count: 1;
+}
+
+@keyframes fade-out {
+    from {opacity: 100%;}
+    to {opacity: 5%;}
+}
+
+@keyframes fade-in{
+    from {opacity: 5%;}
+    to {opacity: 100%;}
+}
+
+
+/* when each circle is hovered on, it expands in size */
+
+.circle:hover{
+    scale: 150%;
+}
+
+
+.circle-container{
+    width: 80%;
+}
+
+.description-container{
+    font-family: "dico-code-two", mono;
+    font-weight: 400;
+    font-style: normal;
+    position: fixed;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    right: 0;
+    top: 0;
+    inline-size: 20vw ;
+    animation: fade-in 1s forwards;
+    animation-iteration-count: 1;
+    height: 100vh;
+    overflow-x: hidden;
+    overflow-y: auto;
+
+}
+
+
+.description-container::-webkit-scrollbar {
+    display: none;
+  }
+
+@keyframes fade-in {
+    from {opacity: 0%;}
+    to {opacity: 100%;}
+}
+
+.inverse, 
+.reverse,
+.songlist,
+.all{
+    cursor:pointer;
+    color:blue;
+    text-decoration:underline;
+}
+
+
+.inverse:hover,
+.reverse:hover,
+.songlist:hover, 
+.all:hover {
+    cursor:pointer;
+    color:purple;
+    text-decoration:underline;
+}
+
+/* song description is hidden until the circle is clicked */
+
+.song-description{
+    display: none;
+    margin-bottom: 5rem;
+}
+
+/* to make the color of the text according to the language */
+.language-container{
+    cursor: pointer;
+}
+.japanese{
+    background: linear-gradient(to right, #ffd500, transparent 75%);
+  }
+  
+  .korean{
+      background: linear-gradient(to right, red, transparent 75%);
+  }
+  
+  .english{
+      background: linear-gradient(to right, blue, transparent 75%);
+  }
+  
+  .thai{
+      background: linear-gradient(to right, green, transparent 75%);
+  }
+  
+  .hindi{
+      background: linear-gradient(to right, pink, transparent 75%);
+  }
+  
+  .tamil{
+      background: linear-gradient(to right, magenta, transparent 75%);
+  }
+  
+  .telugu{
+      background: linear-gradient(to right, rgb(255, 152, 255), transparent 75%);
+  }
+  
+  .marathi{
+      background: linear-gradient(to right, rgb(255, 72, 0), transparent 75%);
+  }
+  
+  .gujju{
+      background: linear-gradient(to right, rgb(255, 152, 112), transparent 75%);
+  }
+  
+  .bengali{
+      background: linear-gradient(to right, rgb(38, 62, 31), transparent 75%);
+  }
+  
+  .urdu{
+      background: linear-gradient(to right, yellow, transparent 75%);
+  }
+  
+  .arabic{
+      background: linear-gradient(to right, skyblue, transparent 75%);
+  }
+  
+  .french{
+      background: linear-gradient(to right, rgb(91, 53, 198), transparent 75%);
+  }
+  
+  .welsh{
+      background: linear-gradient(to right, rgb(26, 255, 0), transparent 75%);
+  }
+  
+  .hebrew{
+      background: linear-gradient(to right, rgb(0, 3, 101), transparent 75%);
+  }
+  
+  .tagalog{
+      background: linear-gradient(to right, rgb(195, 16, 255), transparent 75%);
+  }
+  
+  .swahili{
+      background: linear-gradient(to right, rgb(0, 255, 208), transparent 75%);
+  }
+  .capeverdean{
+      background: linear-gradient(to right, rgb(255, 0, 140), transparent 75%);
+  }
+  .guinean{
+      background: linear-gradient(to right, rgb(159, 77, 122), transparent 75%);
+  }
+  .spanish{
+      background: linear-gradient(to right, rgb(28, 129, 169), transparent 75%);
+  }
+  .italian{
+      background: linear-gradient(to right, rgb(213, 198, 255), transparent 75%);
+  }
+  
+  .burmese{
+      background: linear-gradient(to right, rgb(255, 112, 112), transparent 75%);
+  }
+  
+  .languageofethnicminority{
+      background: linear-gradient(to right, rgb(255, 238, 179), transparent 75%);
+  }
+  
+  .russianandukranian{
+      background: linear-gradient(to right, rgb(82, 183, 255), transparent 75%);
+  }
+  
+  .faroese{
+      background: linear-gradient(to right, rgb(119, 0, 42), transparent 75%);
+  
+  }
+  
+  .ladin{
+      background: linear-gradient(to right, rgb(53, 93, 84), transparent 75%);
+  }
+  
+  .mozambican{
+      background: linear-gradient(to right, rgb(38, 133, 0), transparent 75%);
+  }
+  
+  .wolaytaandoromo{
+      background: linear-gradient(to right, rgb(133, 0, 62), transparent 75%);
+  }
+  
+  .maori{
+      background: linear-gradient(to right, rgb(56, 23, 73), transparent 75%);
+  }
+  
+  .instrumental{
+      background: linear-gradient(to right, rgb(209, 255, 255), transparent 75%);
+  }
+  
+  .englishandmandarin{
+      background: linear-gradient(to right, rgb(170, 0, 0), transparent 75%);
+  }
+  
+  .englishanddutch{
+      background: linear-gradient(to right, rgb(83, 201, 76), transparent 75%);
+  }
+  
+
+/* 
+to change the color of circles depending on the language of the song  */
+.Japanese{
+  background: radial-gradient(#ffd500, transparent 75%);
+}
+
+.Korean{
+    background: radial-gradient(red, transparent 75%);
+}
+
+.English{
+    background: radial-gradient(blue, transparent 75%);
+}
+
+.Thai{
+    background: radial-gradient(green, transparent 75%);
+}
+
+.Hindi{
+    background: radial-gradient(pink, transparent 75%);
+}
+
+.Tamil{
+    background: radial-gradient(magenta, transparent 75%);
+}
+
+.Telugu{
+    background: radial-gradient(rgb(255, 152, 255), transparent 75%);
+}
+
+.Marathi{
+    background: radial-gradient(rgb(255, 72, 0), transparent 75%);
+}
+
+.Gujarati{
+    background: radial-gradient(rgb(255, 152, 112), transparent 75%);
+}
+
+.Bengali{
+    background: radial-gradient(rgb(38, 62, 31), transparent 75%);
+}
+
+.Urdu{
+    background: radial-gradient(yellow, transparent 75%);
+}
+
+.Arabic{
+    background: radial-gradient(skyblue, transparent 75%);
+}
+
+.French,
+.French_and_Mòoré{
+    background: radial-gradient(rgb(91, 53, 198), transparent 75%);
+}
+
+.Welsh{
+    background: radial-gradient(rgb(26, 255, 0), transparent 75%);
+}
+
+.Hebrew{
+    background: radial-gradient(rgb(0, 3, 101), transparent 75%);
+}
+
+.Tagalog{
+    background: radial-gradient(rgb(195, 16, 255), transparent 75%);
+}
+
+.Swahili{
+    background: radial-gradient(rgb(0, 255, 208), transparent 75%);
+}
+.Cape_Verdean{
+    background: radial-gradient(rgb(255, 0, 140), transparent 75%);
+}
+.Guinean{
+    background: radial-gradient(rgb(159, 77, 122), transparent 75%);
+}
+.Spanish{
+    background: radial-gradient(rgb(28, 129, 169), transparent 75%);
+}
+.Italian{
+    background: radial-gradient(rgb(213, 198, 255), transparent 75%);
+}
+
+.Burmese{
+    background: radial-gradient(rgb(255, 112, 112), transparent 75%);
+}
+
+.Language_of_ethnic_minority{
+    background: radial-gradient(rgb(255, 238, 179), transparent 75%);
+}
+
+.Russian,
+.Ukranian{
+    background: radial-gradient(rgb(82, 183, 255), transparent 75%);
+}
+
+.Faroese{
+    background: radial-gradient(rgb(119, 0, 42), transparent 75%);
+
+}
+
+.Ladin{
+    background: radial-gradient(rgb(53, 93, 84), transparent 75%);
+}
+
+.Mozambican{
+    background: radial-gradient(rgb(38, 133, 0), transparent 75%);
+}
+
+.Wolayta_and_Oromo{
+    background: radial-gradient(rgb(133, 0, 62), transparent 75%);
+}
+
+.Maori{
+    background: radial-gradient(rgb(56, 23, 73), transparent 75%);
+}
+
+.Instrumental{
+    background: radial-gradient(rgb(209, 255, 255), transparent 75%);
+}
+
+.English_and_Mandarin_Chinese{
+    background: radial-gradient(rgb(170, 0, 0), transparent 75%);
+}
+
+.English_and_Dutch{
+    background: radial-gradient(rgb(83, 201, 76), transparent 75%);
+}
+
