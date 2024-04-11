@@ -52,6 +52,9 @@
 
 }
 
+.song-description{
+    text-transform: capitalize;
+}
 
 .description-container::-webkit-scrollbar {
     display: none;
