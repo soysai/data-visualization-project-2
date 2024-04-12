@@ -1029,7 +1029,7 @@ let playlist = {
         "Date_added": "Nov 13 2023",
         "Do_I_still_listen_to_it?": "n",
         "Playlist": "Week 8",
-        "Embed" : ""
+        "Embed" : "https://open.spotify.com/track/0HAG6nIiEKd75yGpovuSJQ?si=d15a6e040b344c1f"
     },
     {
         "Song_name": "Hyena",
@@ -1038,7 +1038,8 @@ let playlist = {
         "Genre": "J-pop, Vocaloid",
         "Date_added": "Nov 13 2023",
         "Do_I_still_listen_to_it?": "n",
-        "Playlist": "Week 8"
+        "Playlist": "Week 8",
+        "Embed" : "https://open.spotify.com/track/4wxd8vE8f3uoaAvN8VtVjk?si=ef67d69d3df14534"
     },
     {
         "Song_name": "Original star",
@@ -1047,7 +1048,8 @@ let playlist = {
         "Genre": "J-pop, Vocaloid",
         "Date_added": "Nov 13 2023",
         "Do_I_still_listen_to_it?": "n",
-        "Playlist": "Week 8"
+        "Playlist": "Week 8",
+        "Embed" : "https://open.spotify.com/track/0IefsVfeq3sJZJnkROKi3z?si=638ed19429c944c7"
     },
     {
         "Song_name": "Little wing and beautiful pride",
@@ -1056,7 +1058,8 @@ let playlist = {
         "Genre": "J-pop, Vocaloid",
         "Date_added": "Nov 13 2023",
         "Do_I_still_listen_to_it?": "n",
-        "Playlist": "Week 8"
+        "Playlist": "Week 8", 
+        "Embed" : "https://open.spotify.com/track/03pD2ibX0ZuwxZSRbPO5bX?si=ababe270122040eb"
     },
     {
         "Song_name": "Cherry-picking days ",
@@ -1065,7 +1068,8 @@ let playlist = {
         "Genre": "J-pop, Vocaloid",
         "Date_added": "Nov 13 2023",
         "Do_I_still_listen_to_it?": "y",
-        "Playlist": "Week 8"
+        "Playlist": "Week 8",
+        "Embed" : "https://open.spotify.com/track/6btCGq8ymHHJ1s3Q9GOwZd?si=11e566dae1564f34"
     },
     {
         "Song_name": "Rosette Nebula",
@@ -1074,7 +1078,8 @@ let playlist = {
         "Genre": "J-pop, Vocaloid",
         "Date_added": "Nov 13 2023",
         "Do_I_still_listen_to_it?": "n",
-        "Playlist": "Week 8"
+        "Playlist": "Week 8",
+        "Embed" : "https://open.spotify.com/track/04BKuFkZrfv3bQIQyb0eJu?si=a7116f37bee14d10"
     },
     {
         "Song_name": "Kimi ni Todoke",
@@ -1083,7 +1088,8 @@ let playlist = {
         "Genre": "J-pop",
         "Date_added": "Nov 13 2023",
         "Do_I_still_listen_to_it?": "y",
-        "Playlist": "Week 8"
+        "Playlist": "Week 8",
+        "Embed" : "https://open.spotify.com/track/72WbQ1fIT2wzh9T3zRkXOL?si=d385f1817add459e"
     },
     {
         "Song_name": "Listen!!(From \"K-ON!!\")",
@@ -1092,7 +1098,8 @@ let playlist = {
         "Genre": "J-pop, Vocaloid",
         "Date_added": "Nov 13 2023",
         "Do_I_still_listen_to_it?": "n",
-        "Playlist": "Week 8"
+        "Playlist": "Week 8",
+        "Embed" : "https://open.spotify.com/track/37WXM4pfUpz5uRzzukjnqS?si=95adc362feb741e5"
     },
     {
         "Song_name": "Cagayake! Girls (From \"K-ON!\")",
@@ -1101,7 +1108,8 @@ let playlist = {
         "Genre": "J-pop, Vocaloid",
         "Date_added": "Nov 13 2023",
         "Do_I_still_listen_to_it?": "y",
-        "Playlist": "Week 8"
+        "Playlist": "Week 8",
+        "Embed" : "https://open.spotify.com/track/0SeOsmdYkzWqnlF5ttO0Jm?si=f512fa245a584f2b"
     },
     {
         "Song_name": "Idol",
@@ -1110,7 +1118,8 @@ let playlist = {
         "Genre": "J-pop, Vocaloid",
         "Date_added": "Nov 13 2023",
         "Do_I_still_listen_to_it?": "y",
-        "Playlist": "Week 8"
+        "Playlist": "Week 8",
+        "Embed" : "https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt?si=9b6b4e4981a94957"
     },
     {
         "Song_name": "Kaibutsu",
@@ -1119,7 +1128,8 @@ let playlist = {
         "Genre": "J-pop, Vocaloid, J-rock",
         "Date_added": "Nov 13 2023",
         "Do_I_still_listen_to_it?": "y",
-        "Playlist": "Week 8"
+        "Playlist": "Week 8",
+        "Embed" : "https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi?si=88668b67012b4a5f"
     },
     {
         "Song_name": "One Two Three Four (Get on the dance floor)",
@@ -1128,7 +1138,8 @@ let playlist = {
         "Genre": "Bollywood",
         "Date_added": "Nov 13 2023",
         "Do_I_still_listen_to_it?": "y",
-        "Playlist": "Week 8"
+        "Playlist": "Week 8",
+        "Embed" : "https://open.spotify.com/track/3XyFQxpSlGowWpZkIn3ISA?si=539571345a4c4a76"
     },
     {
         "Song_name": "Bella Ciao",
@@ -1137,7 +1148,8 @@ let playlist = {
         "Genre": "Folk",
         "Date_added": "Nov 14 2023",
         "Do_I_still_listen_to_it?": "y",
-        "Playlist": "Week 8"
+        "Playlist": "Week 8",
+        "Embed" : "https://open.spotify.com/track/3lWzVNe1yFZlkeBBzUuZYu?si=76cb7073a1ef4a88"
     },
     {
         "Song_name": "YO-SOUL",
@@ -1146,7 +1158,8 @@ let playlist = {
         "Genre": "R&B/Soul",
         "Date_added": "Nov 18 2023",
         "Do_I_still_listen_to_it?": "y",
-        "Playlist": "Week 9"
+        "Playlist": "Week 9",
+        "Embed" : "https://open.spotify.com/track/3EJfhj79Tj3pLyrl2R9ckD?si=edaf2eecea8d4651"
     },
     {
         "Song_name": "Pakeezah",
@@ -1155,7 +1168,8 @@ let playlist = {
         "Genre": "Bollywood",
         "Date_added": "Nov 18 2023",
         "Do_I_still_listen_to_it?": "n",
-        "Playlist": "Week 9"
+        "Playlist": "Week 9",
+        "Embed" : "https://open.spotify.com/track/3RAqJsgCOpwiPhkqmEvgI0?si=de47270752fd4aed"
     },
     {
         "Song_name": "Saibo",
@@ -1164,7 +1178,8 @@ let playlist = {
         "Genre": "Bollywood",
         "Date_added": "Nov 18 2023",
         "Do_I_still_listen_to_it?": "n",
-        "Playlist": "Week 9"
+        "Playlist": "Week 9", 
+        "Embed" : "https://open.spotify.com/track/6udC4b4jOSnHb9ItnXgKLR?si=17e6803e0b3c4a19"
     },
     {
         "Song_name": "Aphrodite",
@@ -1173,7 +1188,8 @@ let playlist = {
         "Genre": "R&B/Soul",
         "Date_added": "Nov 18 2023",
         "Do_I_still_listen_to_it?": "n",
-        "Playlist": "Week 9"
+        "Playlist": "Week 9",
+        "Embed" : "https://open.spotify.com/track/3A7Etq2wGE9cYqLIma97Tt?si=d72dd999e82c4eb3"
     },
     {
         "Song_name": "on your mind",
@@ -1182,7 +1198,8 @@ let playlist = {
         "Genre": "R&B/Soul",
         "Date_added": "Nov 19 2023",
         "Do_I_still_listen_to_it?": "n",
-        "Playlist": "Week 9"
+        "Playlist": "Week 9",
+        "Embed" : "https://open.spotify.com/track/27X15kptwVSlgrxLr0YtUt?si=19c64d5aeeb1493a"
     },
     {
         "Song_name": "do me right",
@@ -1191,7 +1208,8 @@ let playlist = {
         "Genre": "Pop",
         "Date_added": "Nov 21 2023",
         "Do_I_still_listen_to_it?": "n",
-        "Playlist": "Week 9"
+        "Playlist": "Week 9",
+        "Embed" : "https://open.spotify.com/track/2GcypFJcULDmhmbqFdm9qi?si=36240026b1eb41c2"
     },
     {
         "Song_name": "Мой мармеладный",
@@ -1200,7 +1218,8 @@ let playlist = {
         "Genre": "Pop",
         "Date_added": "Nov 26 2023",
         "Do_I_still_listen_to_it?": "n",
-        "Playlist": "Week 9"
+        "Playlist": "Week 9",
+        "Embed" : "https://open.spotify.com/track/6qNHJwdMhNZzyJ7yTDU8zD?si=eaa06e2d46d94247"
     },
     {
         "Song_name": "My love mine all mine",
@@ -1209,7 +1228,8 @@ let playlist = {
         "Genre": "Alternative/Indie",
         "Date_added": "Nov 27 2023",
         "Do_I_still_listen_to_it?": "n",
-        "Playlist": "Week 9"
+        "Playlist": "Week 9",
+        "Embed" : "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3?si=556546a8b57a4322"
     },
     {
         "Song_name": "Forget About You(Intimate)",
@@ -1218,7 +1238,8 @@ let playlist = {
         "Genre": "Alternative/Indie",
         "Date_added": "Nov 27 2023",
         "Do_I_still_listen_to_it?": "y",
-        "Playlist": "Week 10"
+        "Playlist": "Week 10",
+        "Embed" : "https://open.spotify.com/track/16BMKSNU69eW0y1Q0vWvwa?si=531c358ada3b45e3"
     },
     {
         "Song_name": "Bad news",
@@ -1227,7 +1248,8 @@ let playlist = {
         "Genre": "K-pop",
         "Date_added": "Nov 27 2023",
         "Do_I_still_listen_to_it?": "n",
-        "Playlist": "Week 10"
+        "Playlist": "Week 10",
+        "Embed" : "https://open.spotify.com/track/7AGq5qaaF9awHDaKuCvVjj?si=a01abc6a2aa74530"
     },
     {
         "Song_name": "Blue Check",
@@ -1236,7 +1258,8 @@ let playlist = {
         "Genre": "K-HipHop",
         "Date_added": "Nov 27 2023",
         "Do_I_still_listen_to_it?": "y",
-        "Playlist": "Week 10"
+        "Playlist": "Week 10",
+        "Embed" : "https://open.spotify.com/track/2mqnyDbLObaEBnvGv5Ok5Z?si=a6342c3901034e40"
     },
     {
         "Song_name": "Puppet (feat. PULLIK)",
@@ -1245,7 +1268,8 @@ let playlist = {
         "Genre": "R&B/Soul",
         "Date_added": "Dec 1 2023",
         "Do_I_still_listen_to_it?": "y",
-        "Playlist": "Week 10"
+        "Playlist": "Week 10",
+        "Embed" : "https://open.spotify.com/track/5TamV4DIyC2xmpUKLGkog4?si=8833779628094ef9"
     },
     {
         "Song_name": "Happy B!tch ",
@@ -1254,7 +1278,8 @@ let playlist = {
         "Genre": "K-HipHop",
         "Date_added": "Dec 1 2023",
         "Do_I_still_listen_to_it?": "y",
-        "Playlist": "Week 10"
+        "Playlist": "Week 10",
+        "Embed" : "https://open.spotify.com/track/4OcM3qEtneo7qJZ3TFQct1?si=32598c8ea5de40f7"
     },
     {
         "Song_name": "Confirmed",
@@ -1263,7 +1288,8 @@ let playlist = {
         "Genre": "K-HipHop",
         "Date_added": "Dec 1 2023",
         "Do_I_still_listen_to_it?": "n",
-        "Playlist": "Week 10"
+        "Playlist": "Week 10",
+        "Embed" : "https://open.spotify.com/track/4GkOV9sc0jqIvlzHTG43Js?si=70efd23af41d4c3e"
     },
     {
         "Song_name": "Lovey Dovey",
@@ -1272,7 +1298,8 @@ let playlist = {
         "Genre": "K-HipHop, R&B/Soul",
         "Date_added": "Dec 1 2023",
         "Do_I_still_listen_to_it?": "y",
-        "Playlist": "Week 10"
+        "Playlist": "Week 10",
+        "Embed" : "https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6?si=06e7e883ef51440e"
     },
     {
         "Song_name": "Merry-Go-Round of Life",
@@ -1281,7 +1308,8 @@ let playlist = {
         "Genre": "Instrumental",
         "Date_added": "Dec 2 2023",
         "Do_I_still_listen_to_it?": "y",
-        "Playlist": "Week 10"
+        "Playlist": "Week 10",
+        "Embed" : "https://open.spotify.com/track/39uLYYZytVUwcjgeYLI409?si=c1a44eab702d468d"
     },
     {
         "Song_name": "Mèrz",
@@ -1290,7 +1318,8 @@ let playlist = {
         "Genre": "Folk",
         "Date_added": "Dec 2 2023",
         "Do_I_still_listen_to_it?": "y",
-        "Playlist": "Week 10"
+        "Playlist": "Week 10",
+        "Embed" : "https://open.spotify.com/track/6TUoBl3V18MeduwnNNAOWX?si=f11e13e328b448db"
     },
     {
         "Song_name": "Crush",
@@ -1299,7 +1328,8 @@ let playlist = {
         "Genre": "Pop",
         "Date_added": "Dec 2 2023",
         "Do_I_still_listen_to_it?": "y",
-        "Playlist": "Week 10"
+        "Playlist": "Week 10",
+        "Embed" : "https://open.spotify.com/track/1yAA28ZayhVviOYsfYtlP5?si=ec5170f1ae554475"
     },
     {
         "Song_name": "Wadado",
@@ -1308,7 +1338,8 @@ let playlist = {
         "Genre": "Pop",
         "Date_added": "Dec 2 2023",
         "Do_I_still_listen_to_it?": "y",
-        "Playlist": "Week 10"
+        "Playlist": "Week 10",
+        "Embed" : "https://open.spotify.com/track/6ZqTDEVvQSxNJU4k4ayUh8?si=754148c9e2104d93"
     },
     {
         "Song_name": "love you twice",
@@ -1317,7 +1348,8 @@ let playlist = {
         "Genre": "Pop",
         "Date_added": "Dec 2 2023",
         "Do_I_still_listen_to_it?": "y",
-        "Playlist": "Week 10"
+        "Playlist": "Week 10",
+        "Embed" : "https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8?si=756f304ffdaf48b1"
     },
     {
         "Song_name": "Perfect Night",
@@ -1326,7 +1358,8 @@ let playlist = {
         "Genre": "K-pop",
         "Date_added": "Dec 4 2023",
         "Do_I_still_listen_to_it?": "y",
-        "Playlist": "Week 10"
+        "Playlist": "Week 10",
+        "Embed" : "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8?si=16f67a3dd5f040e7"
     },
     {
         "Song_name": "Animal Farm",
@@ -1335,7 +1368,8 @@ let playlist = {
         "Genre": "Hiphop, R&B/Soul, Alt/Indie, Rock",
         "Date_added": "Dec 4 2023",
         "Do_I_still_listen_to_it?": "y",
-        "Playlist": "Week 10"
+        "Playlist": "Week 10",
+        "Embed" : "https://open.spotify.com/track/3gAXVQOR0h7Ks71lsr5MFZ?si=7c8547b96296486d"
     },
     {
         "Song_name": "Swipe (Prod. C-Young, Alawn)",
@@ -1344,7 +1378,8 @@ let playlist = {
         "Genre": "K-pop, Hiphop",
         "Date_added": "Dec 6 2023",
         "Do_I_still_listen_to_it?": "y",
-        "Playlist": "Week 10"
+        "Playlist": "Week 10",
+        "Embed" : "https://open.spotify.com/track/2ltAOiSmMdUu3tVQSJVReP?si=e3cb7e89beab41aa"
     },
     {
         "Song_name": "Дърветата",
@@ -1353,7 +1388,8 @@ let playlist = {
         "Genre": "Alt/Indie",
         "Date_added": "Dec 8 2023",
         "Do_I_still_listen_to_it?": "n",
-        "Playlist": "Week 10"
+        "Playlist": "Week 10",
+        "Embed" : "https://open.spotify.com/track/13W96AQCDAzSKamvMeZdg0?si=8e163d0494fa4e3e"
     },
     {
         "Song_name": "Chicken Noodle Soup",
@@ -1362,7 +1398,8 @@ let playlist = {
         "Genre": "Pop",
         "Date_added": "Dec 15 2023",
         "Do_I_still_listen_to_it?": "n",
-        "Playlist": "Week 11"
+        "Playlist": "Week 11", 
+        "Embed" : "https://open.spotify.com/track/2y6Ty2NPAsP84XJAtzLxuk?si=57611367fd8e4e08"
     },
     {
         "Song_name": "The Box",
@@ -1371,7 +1408,8 @@ let playlist = {
         "Genre": "Hip-hop/Rap",
         "Date_added": "Dec 15 2023",
         "Do_I_still_listen_to_it?": "n",
-        "Playlist": "Week 11"
+        "Playlist": "Week 11",
+        "Embed" : "https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I?si=f3197f6843054b76"
     },
     {
         "Song_name": "ZOO",
@@ -1380,7 +1418,8 @@ let playlist = {
         "Genre": "K-pop, Hip-hop",
         "Date_added": "Dec 15 2023",
         "Do_I_still_listen_to_it?": "n",
-        "Playlist": "Week 11"
+        "Playlist": "Week 11", 
+        "Embed" : "https://open.spotify.com/track/7eVu7FI02cTicLEgVtUvwF?si=d4fa64b87d6a4625"
     },
     {
         "Song_name": "Spinnin",
@@ -1389,7 +1428,8 @@ let playlist = {
         "Genre": "Hip-Hop/Rap",
         "Date_added": "Dec 15 2023",
         "Do_I_still_listen_to_it?": "y",
-        "Playlist": "Week 11"
+        "Playlist": "Week 11",
+        "Embed" : "https://open.spotify.com/track/4r0kug4vaNx3d8qyDLhQes?si=2e577ede62c94168"
     },
     {
         "Song_name": "Violet",
